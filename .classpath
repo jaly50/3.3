@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/undertow-core-1.2.0.Beta9-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="lib" path="lib/undertow-core-1.2.0.Beta9-SNAPSHOT-tests.jar"/>
+	<classpathentry kind="lib" path="lib/undertow-core-1.2.0.Beta9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-modules.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/aws-java-sdk-1.7.5.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-core-1.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/hbase-0.94.18.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/xnio-api-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/xnio-nio-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/jboss-logging-3.2.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-5.1.34-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
